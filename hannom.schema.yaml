@@ -8,7 +8,7 @@
 schema:
   schema_id: hannom
   name: 部𢫈漢喃
-  version: "0.12"
+  version: "0.13"
   author:
     - 以成 (Dĩ Thành) <huang-junxin@qq.com>
     - Keepout2010 <Keepout2010@163.com>
@@ -67,8 +67,8 @@ speller:
 #    - derive/dd/d/
 
 translator:
-  dictionary: hannomPS
-  prism: hannomPS
+  dictionary: hannom
+  prism: hannom
   spelling_hints: 10  # 〜字以內候選標註完整帶調拼音
   enable_completion: false
   preedit_format:
