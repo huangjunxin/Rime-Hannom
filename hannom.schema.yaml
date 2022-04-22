@@ -8,13 +8,13 @@
 schema:
   schema_id: hannom
   name: 部𢫈漢喃
-  version: "0.11"
+  version: "0.12"
   author:
     - 以成 (Dĩ Thành) <huang-junxin@qq.com>
     - Keepout2010 <Keepout2010@163.com>
     - 学习之云 <hitsuji@pku.edu.cn>
   description: |
-    Hannom is a Vietnamese input scheme. You can input Hán Nôm through space, and Chữ Quốc ngũ through Ctrl+Shift+Enter. When the first input is "`" (i.e. the key above the Tab key), you can use Cangjie to reverse the search. 部𢫈漢喃是一種越南语輸入方案。可以通過空格輸入漢喃，Ctrl+Shift+Enter輸入越南國語字。第一個輸入為“`”（即Tab鍵上方的鍵）時可以使用倉頡反查。
+    Hannom is a Vietnamese input scheme. You can input Hán Nôm through space, and Chữ Quốc ngũ through Ctrl+Enter. When the first input is "`" (i.e. the key above the Tab key), you can use Cangjie to reverse the search. 部𢫈漢喃是一種越南语輸入方案。可以通過空格輸入漢喃，Ctrl+Enter輸入越南國語字。第一個輸入為“`”（即Tab鍵上方的鍵）時可以使用倉頡反查。
   dependencies:
     - cangjie5
 
