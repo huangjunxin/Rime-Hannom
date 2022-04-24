@@ -7,7 +7,7 @@
 
 ---
 name: hannom
-version: "2022-04-24"
+version: "2022-04-24-2"
 sort: original
 use_preset_vocabulary: false
 max_phrase_length: 7
@@ -15,32 +15,42 @@ min_phrase_weight: 100
 ...
 
 #-----異體字 Variant characters-----
+#-----to have
 固	cos
 𣎏	cos
-#----------
+#-----people
 𠊚	nguwowif
 𠊛	nguwowif
-#----------
+#-----with
 唄	vowis
 𠇍	vowis
-#----------
+#-----but; yet
 扔	nhuwngz
 仍	nhuwngz
-#----------
+#-----very
 𫇐	raats
 窒	raats
 慄	raats
-#----------
+#-----what
 之	gif
 夷	gif
-#----------
+咦	gif
+#-----a; the
+丐	cais
+亇	cais
+丐之	cais gif
+丐呢	cais nayf
+#-----this
+呢	nayf
+尼	nayf
+#-----rain
 𩄎	muwaz
 𩅹	muwaz
-#----------
+#-----without difficulty
 𢬥	dangf
 扛	dangf
 易𢬥	deex dangf
-#----------
+#-----good
 𡄰	toots
 卒	toots
 #-----異體字 Variant characters-----
