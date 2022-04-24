@@ -7,20 +7,71 @@
 
 ---
 name: hannom
-version: "2022-04-22-2"
+version: "2022-04-24"
 sort: original
 use_preset_vocabulary: false
 max_phrase_length: 7
 min_phrase_weight: 100
 ...
 
+#-----異體字 Variant characters-----
+固	cos
+𣎏	cos
+#----------
+𠊚	nguwowif
+𠊛	nguwowif
+#----------
+唄	vowis
+𠇍	vowis
+#----------
+扔	nhuwngz
+仍	nhuwngz
+#----------
+𫇐	raats
+窒	raats
+慄	raats
+#----------
+之	gif
+夷	gif
+#----------
+𩄎	muwaz
+𩅹	muwaz
+#----------
+𢬥	dangf
+扛	dangf
+易𢬥	deex dangf
+#----------
+𡄰	toots
+卒	toots
+#-----異體字 Variant characters-----
+
 # Maintenance
-能竅	nawng khieeus	10000
-浽弼	nooir baatj	10000
-盡心	taanj taam	10000
-盡瘁	taanj tuyj	10000
-澦	duwaj	10000
-一貫	nhaats quans	10000
+能竅	nawng khieeus
+浽弼	nooir baatj
+盡心	taanj taam
+盡瘁	taanj tuyj
+澦	duwaj
+一貫	nhaats quans
+𦬑	nowr
+𭍆 rooj
+𦬑𭍆	nowr rooj
+𱱇	trair
+𱱇過	trair qua
+錆劍	thanh kieems
+恆	hangf
+恆𣇞	hangf giowf
+精整	tinh chinhr
+𢗷㜥	thoair mais
+𫡠	maix
+𫡠𫡠	maix maix
+𢪱	vaats
+𢪱𡲤	vaats var
+𧁷𫩒	khos khawn
+打𣈖	ddanhs bongs
+𢟙注	chawm chus
+𢟙𡭧	chawm chuts
+本身	banr thaan
+劸猛	khoer manhj
 
 #From Chunom.org
 阿片
@@ -5581,10 +5632,7 @@ min_phrase_weight: 100
 吧	vaf	13076
 𧵑	cuar	12313
 𠬠	mootj	10587
-#-----爭議字：固𣎏-----
-固	cos	10488
 𣎏	cos	10488
-#-----爭議字：固𣎏-----
 羅	laf	10303
 空	khoongz	8451
 朱	choz	8387
@@ -5592,15 +5640,9 @@ min_phrase_weight: 100
 𥪝	trongz	8149
 㐌	ddax	7585
 得	dduwowcj	6620
-#-----爭議字：𠊚𠊛-----
-𠊚	nguwowif	6434
 𠊛	nguwowif	6434
-#-----爭議字：𠊚𠊛-----
 仍	nhuwngx	6065
-#-----爭議字：唄𠇍-----
-唄	vowis	5396
 𠇍	vowis	5396
-#-----爭議字：唄𠇍-----
 抵	ddeer	4984
 𠚢	raz	4881
 𡥵	conz	4685
@@ -5652,10 +5694,7 @@ min_phrase_weight: 100
 時	thif	2476
 成	thanhf	2459
 城	thanhf	2419
-#-----爭議字：扔仍-----
-扔	nhuwngz	2399
 仍	nhuwngz	2399
-#-----爭議字：扔仍-----
 忍	nhuwngz	2386
 𡗊	nhieeuf	2371
 𣈜	ngayf	2370
@@ -5712,11 +5751,7 @@ min_phrase_weight: 100
 期	kyf	1491
 圻	kyf	1481
 底	ddaayz	1469
-#-----爭議字：𫇐窒慄-----
 𫇐	raats	1438
-窒	raats	1438
-慄	raats	1438
-#-----爭議字：𫇐窒慄-----
 芇	naof	1437
 現	hieenj	1428
 場	truwowngf	1419
@@ -5780,10 +5815,7 @@ min_phrase_weight: 100
 接	tieeps	1103
 伴	banj	1101
 報	baos	1100
-#-----爭議字：之夷-----
-之	gif	1099
 夷	gif	1099
-#-----爭議字：之夷-----
 㛪	emz	1087
 𩛖	awnz	1086
 經	kinhz	1085
@@ -46642,3 +46674,61 @@ Cachs
 𬮦	quanz
 𬶭	tees
 𬸦	tracj
+
+# New characters
+𠿃	mooiz
+愴	thuwowngz
+𡖵	ddeemz
+𩄴	bongs
+𩄴	bongs
+㴷	ddawms
+𡖵	ddeemz
+𫷓	luoonz
+𬜝	mauf
+𠿃	mooiz
+𢟚	queenz
+愴	thuwowngz
+唄	vowis
+󰀭	rowi
+𨖨	rowif
+𢚶	nooix
+𨖨	rowif
+𢚶	nooix
+𢟘	chawcs
+𬃻	trais
+忱	thaamf
+𣌝	nawngs
+𠺭	boongx
+𣊿	chieeuf
+𡮲	thowz
+𦟟	mowf
+㖧	hoonz
+𨐸	ddawngs
+𨐮	cayz
+𢯨	nius
+𢚷	xaz
+㤿	eemz
+嚉	ddoois
+𥈬	ngongs
+𢚷	xaz
+󰀑	laauz
+𢣸	ngowx
+󱯫	mowf
+𦵚	nuj
+𦄞	vaans
+𧙀	lowps
+䢦	suoots
+𡨺	giuwx
+美	mex
+𨒟	ddoongz
+𡀷	roonj
+𤐝	soiz
+󰕯	tims
+󰋇	maays
+󱙡	nghieengz
+𩘣	toos
+𦱊	tranhz
+𠏳	gioongs
+噓	howf
+󱡠	khuaangz
+󰌠	toar
