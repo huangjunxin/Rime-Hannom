@@ -7,7 +7,7 @@
 
 ---
 name: hannom
-version: "2022-04-24-2"
+version: "2022-04-24-3"
 sort: original
 use_preset_vocabulary: false
 max_phrase_length: 7
@@ -18,6 +18,11 @@ min_phrase_weight: 100
 #-----to have
 固	cos
 𣎏	cos
+固体	cos theer
+固勢	cos thees
+#-----(only in compounds) can; may
+体	theer
+勢	thees
 #-----people
 𠊚	nguwowif
 𠊛	nguwowif
