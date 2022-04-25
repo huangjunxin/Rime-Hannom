@@ -7,7 +7,7 @@
 
 ---
 name: hannom
-version: "2022-04-24-3"
+version: "2022-04-25"
 sort: original
 use_preset_vocabulary: false
 max_phrase_length: 7
@@ -58,12 +58,58 @@ min_phrase_weight: 100
 #-----good
 𡄰	toots
 卒	toots
+#-----black; dark
+黰	ddenz
+顛	ddenz
+#-----home
+茹	nhaf
+家	nhaf
+#-----poor
+𠨪	ngheof
+𫊐	ngheof
+𠨪苦	ngheof khoor
+#-----cut off; to break off
+䋎	dduwts
+𠞹	dduwts
+𠛣	dduwts
+𢴑	dduwts
+#-----to tell
+計	keer
+𠸥	keer
+𧦕	keer
+#-----to live; living
+𤯩	soongs
+𤯨	soongs
+𪟤	soongs
+#-----full; filled
+𣹓	ddaayf
+𠫆	ddaayf
+𪞅	ddaayf
+菭	ddaayf
+𧀟	ddaayf
+𠫅	ddaayf
+𣹓𨁥	ddaayf ddur
+#-----to be sufficient; to be enough; to be finished
+𨁥	ddur
+𨇜	ddur
+#-----strength; power
+飭	suwcs
+力	suwcs
+飭力	suwcs luwcj
+飭猛	suwcs manhj
+嚜飭	mawcj suwcs
+飭劸	suwcs khoer
+#-----new
+㵋	mowis
+𡤔	mowis
+𪦲	mowis
+𡤓	mowis
 #-----異體字 Variant characters-----
 
 # Maintenance
-能竅	nawng khieeus
+能竅	nawngz khieeus
 浽弼	nooir baatj
-盡心	taanj taam
+盡心	taanj taamz
 盡瘁	taanj tuyj
 澦	duwaj
 一貫	nhaats quans
@@ -71,22 +117,38 @@ min_phrase_weight: 100
 𭍆 rooj
 𦬑𭍆	nowr rooj
 𱱇	trair
-𱱇過	trair qua
-錆劍	thanh kieems
+𱱇過	trair quaz
+錆劍	thanhz kieems
 恆	hangf
 恆𣇞	hangf giowf
-精整	tinh chinhr
+精整	tinhz chinhr
 𢗷㜥	thoair mais
 𫡠	maix
 𫡠𫡠	maix maix
 𢪱	vaats
 𢪱𡲤	vaats var
-𧁷𫩒	khos khawn
+𧁷𫩒	khos khawnz
 打𣈖	ddanhs bongs
-𢟙注	chawm chus
-𢟙𡭧	chawm chuts
-本身	banr thaan
+𢟙注	chawmz chus
+𢟙𡭧	chawmz chuts
+本身	banr thaanz
 劸猛	khoer manhj
+景𡋂	canhr neenf
+樂𡋂	nhacj neenf
+城庯	thanhf phoos
+局合	cuoocj hopj
+職責	chuwcs trachs
+封鎖	phongz toar
+宣佈	tuyeenz boos
+增強	tawngz cuwowngf
+儮	leechj
+佂儮	cheenhz leechj
+攔傳	lanz truyeenf
+慌忙	hoangz mangz
+絕渭	tuyeetj vowif
+𣼼	tranf
+𣼼𣹓	tranf ddaayf
+詩夢	thowz moongj
 
 #From Chunom.org
 阿片
